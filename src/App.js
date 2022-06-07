@@ -104,8 +104,6 @@ const App = () => {
 
     setTrackDetail(trackInfo[0].track);
 
-
-
   }
 
   
